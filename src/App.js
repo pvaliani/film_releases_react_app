@@ -1,8 +1,9 @@
+import FilmBox from "./containers/FilmBox";
 
 
 function App() {
   return (
-    <p>hello</p>
+    <FilmBox />
   );
 }
 
