@@ -46,4 +46,4 @@ const FilmBox = () => {
 
 }
 
-export default FilmBox
+export default FilmBox;
